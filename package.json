@@ -1,10 +1,23 @@
 {
   "dependencies": {
+    "@react-navigation/native": "6.0.5",
+    "@react-navigation/stack": "6.0.10",
+    "email-validator": "^2.0.4",
     "expo": "^43.0.0",
+    "firebase": "8.2.3",
+    "formik": "^2.2.9",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "react-native": "0.64.3",
-    "react-native-web": "0.17.1"
+    "react-native-elements": "2.3.2",
+    "react-native-gesture-handler": "1.10.2",
+    "react-native-safe-area-context": "^3.3.2",
+    "react-native-screens": "~3.8.0",
+    "react-native-vector-icons": "^9.0.0",
+    "react-native-web": "~0.13.12",
+    "react-navigation": "3.x",
+    "valid-url": "^1.0.9",
+    "yup": "^0.32.11"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
