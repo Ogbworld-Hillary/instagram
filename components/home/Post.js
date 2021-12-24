@@ -42,7 +42,7 @@ const Post = ({ post }) => {
             ),
     })
     .then(() => {
-        console.log(' ** Document successfully uploaded!')
+        console.log('🔥🔥 Document successfully uploaded!')
     })
     .catch(error => {
         console.error('Error updating document: ', error)
